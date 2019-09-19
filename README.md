@@ -19,6 +19,5 @@ Start Station
 End Station
 User Type
 The Chicago and New York City files also have the following two columns:
-
 Gender
 Birth Year
