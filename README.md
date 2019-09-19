@@ -14,13 +14,20 @@ A terminal application
 The Datasets
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
 
-Start Time
-End Time
-Trip Duration
-Start Station
-End Station
+Start Time,
+
+End Time,
+
+Trip Duration,
+
+Start Station,
+
+End Station,
+
 User Type
+
 The Chicago and New York City files also have the following two columns:
 
-Gender
+Gender,
+
 Birth Year
